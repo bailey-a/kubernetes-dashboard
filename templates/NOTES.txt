@@ -1,0 +1,1 @@
+kubernetes-dashboard has been installed in namespace {{ .Release.Namespace }}
